@@ -1,6 +1,5 @@
-## Performance Testing on Rokomari Web Application Using JMeter
+## Performance Testing on Daraz Web Application Using JMeter
 
-## Summary:
 Test executed for the below mentioned scenario in server https://www.daraz.com.bd/.
 
 - 1 Concurrent Request with 0 Loop Count; Avg TPS for Total Samples is ~ 1.34 And Total Concurrent API requested: 40.
