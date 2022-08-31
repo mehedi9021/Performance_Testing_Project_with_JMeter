@@ -1,6 +1,5 @@
 ## Performance Testing on Rokomari Web Application Using JMeter
 
-## Summary:
 Test executed for the below mentioned scenario in server https://en.wikipedia.org/wiki/Main_Page.
 
 - 20 Concurrent Request with 0 Loop Count; Avg TPS for Total Samples is ~ 6.30 And Total Concurrent API requested: 1940.
@@ -11,6 +10,6 @@ Test executed for the below mentioned scenario in server https://en.wikipedia.or
 
 While executed 2425 concurrent request, found 16 request got connection timeout and error rate is 0.66%. 
 
-Summary: Server can handle almost concurrent 1940 API call with almost zero (0) percent error rate.
+**Summary:** Server can handle almost concurrent 1940 API call with almost zero (0) percent error rate.
 
 Please find the details report from the attachment and let me know if you have any further queries.
