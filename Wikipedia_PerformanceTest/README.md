@@ -1,4 +1,4 @@
-## Performance Testing on Rokomari Web Application Using JMeter
+## Performance Testing on Wikipedia Web Application Using JMeter
 
 Test executed for the below mentioned scenario in server https://en.wikipedia.org/wiki/Main_Page.
 
