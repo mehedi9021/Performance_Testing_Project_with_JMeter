@@ -1,0 +1,226 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1662009685715,5150,https://catalog.chaldal.com/searchOld,200,OK,Thread Group 1-3,text,true,,228042,843,25,25,https://catalog.chaldal.com/searchOld,2285,0,2161
+1662009685912,9004,https://catalog.chaldal.com/searchOld,200,OK,Thread Group 1-4,text,true,,228049,843,25,25,https://catalog.chaldal.com/searchOld,2628,0,2433
+1662009685532,9891,https://catalog.chaldal.com/searchOld,200,OK,Thread Group 1-2,text,true,,228050,843,25,25,https://catalog.chaldal.com/searchOld,3422,0,3249
+1662009694918,3755,https://chaldal.com/yolk/api-v4/Recipe/GetAllRecipeCategories,200,OK,Thread Group 1-4,text,true,,3153,695,25,25,https://chaldal.com/yolk/api-v4/Recipe/GetAllRecipeCategories,3747,0,3434
+1662009686312,12421,https://catalog.chaldal.com/searchOld,200,OK,Thread Group 1-6,text,true,,228041,843,25,25,https://catalog.chaldal.com/searchOld,2988,0,2777
+1662009690094,10633,https://catalog.chaldal.com/searchOld,200,OK,Thread Group 1-25,text,true,,228041,843,25,25,https://catalog.chaldal.com/searchOld,3321,0,3051
+1662009698677,3527,https://chaldal.com/yolk/api-v4/Recipe/GetAllRecipeSummaries?pageSize=100&pageNumber=1,200,OK,Thread Group 1-4,text,true,,37176,720,25,25,https://chaldal.com/yolk/api-v4/Recipe/GetAllRecipeSummaries?pageNumber=1&pageSize=100,2097,0,0
+1662009685451,16988,https://catalog.chaldal.com/searchOld,200,OK,Thread Group 1-1,text,true,,228063,843,25,25,https://catalog.chaldal.com/searchOld,4422,0,4083
+1662009695424,7072,https://chaldal.com/yolk/api-v4/Recipe/GetAllRecipeCategories,200,OK,Thread Group 1-2,text,true,,3153,695,25,25,https://chaldal.com/yolk/api-v4/Recipe/GetAllRecipeCategories,6272,0,5731
+1662009702205,337,https://chaldal.com/yolk/api-v4/DailyDeal/GetDailyDeals,200,OK,Thread Group 1-4,text,true,,2059,689,25,25,https://chaldal.com/yolk/api-v4/DailyDeal/GetDailyDeals,318,0,0
+1662009686927,15738,https://catalog.chaldal.com/searchOld,200,OK,Thread Group 1-9,text,true,,228042,843,25,25,https://catalog.chaldal.com/searchOld,5702,0,4450
+1662009702543,863,https://chaldal.com/yolk/api-v4/DailyDeal/GetDailyDeals,200,OK,Thread Group 1-4,text,true,,2059,689,25,25,https://chaldal.com/yolk/api-v4/DailyDeal/GetDailyDeals,350,0,0
+1662009688095,15643,https://catalog.chaldal.com/searchOld,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: catalog.chaldal.com:443 failed to respond,Thread Group 1-15,text,false,,2100,0,25,25,https://catalog.chaldal.com/searchOld,0,0,15640
+1662009690874,14067,https://chaldal.com/yolk/api-v4/Recipe/GetAllRecipeCategories,200,OK,Thread Group 1-3,text,true,,3153,695,25,25,https://chaldal.com/yolk/api-v4/Recipe/GetAllRecipeCategories,13819,0,5906
+1662009702497,3100,https://chaldal.com/yolk/api-v4/Recipe/GetAllRecipeSummaries?pageSize=100&pageNumber=1,200,OK,Thread Group 1-2,text,true,,37176,720,25,25,https://chaldal.com/yolk/api-v4/Recipe/GetAllRecipeSummaries?pageNumber=1&pageSize=100,624,0,0
+1662009702667,3857,https://chaldal.com/yolk/api-v4/Recipe/GetAllRecipeCategories,200,OK,Thread Group 1-9,text,true,,3153,695,25,25,https://chaldal.com/yolk/api-v4/Recipe/GetAllRecipeCategories,3852,0,3443
+1662009705598,998,https://chaldal.com/yolk/api-v4/DailyDeal/GetDailyDeals,200,OK,Thread Group 1-2,text,true,,2059,689,25,25,https://chaldal.com/yolk/api-v4/DailyDeal/GetDailyDeals,381,0,0
+1662009698735,8115,https://chaldal.com/yolk/api-v4/Recipe/GetAllRecipeCategories,200,OK,Thread Group 1-6,text,true,,3153,695,25,25,https://chaldal.com/yolk/api-v4/Recipe/GetAllRecipeCategories,6683,0,5518
+1662009688899,18275,https://catalog.chaldal.com/searchOld,200,OK,Thread Group 1-19,text,true,,228033,843,25,25,https://catalog.chaldal.com/searchOld,6191,0,5715
+1662009700728,6582,https://chaldal.com/yolk/api-v4/Recipe/GetAllRecipeCategories,200,OK,Thread Group 1-25,text,true,,3153,695,25,25,https://chaldal.com/yolk/api-v4/Recipe/GetAllRecipeCategories,6582,0,3417
+1662009706598,965,https://chaldal.com/yolk/api-v4/DailyDeal/GetDailyDeals,200,OK,Thread Group 1-2,text,true,,2059,689,25,25,https://chaldal.com/yolk/api-v4/DailyDeal/GetDailyDeals,456,0,0
+1662009702440,5713,https://chaldal.com/yolk/api-v4/Recipe/GetAllRecipeCategories,200,OK,Thread Group 1-1,text,true,,3153,695,25,25,https://chaldal.com/yolk/api-v4/Recipe/GetAllRecipeCategories,3874,0,2430
+1662009689692,19135,https://catalog.chaldal.com/searchOld,200,OK,Thread Group 1-23,text,true,,228053,843,25,25,https://catalog.chaldal.com/searchOld,9883,0,9633
+1662009688286,20775,https://catalog.chaldal.com/searchOld,200,OK,Thread Group 1-16,text,true,,228042,843,25,25,https://catalog.chaldal.com/searchOld,6703,0,5750
+1662009707311,2273,https://chaldal.com/yolk/api-v4/Recipe/GetAllRecipeSummaries?pageSize=100&pageNumber=1,200,OK,Thread Group 1-25,text,true,,37176,720,25,25,https://chaldal.com/yolk/api-v4/Recipe/GetAllRecipeSummaries?pageNumber=1&pageSize=100,679,0,0
+1662009709585,461,https://chaldal.com/yolk/api-v4/DailyDeal/GetDailyDeals,200,OK,Thread Group 1-25,text,true,,2059,689,25,25,https://chaldal.com/yolk/api-v4/DailyDeal/GetDailyDeals,454,0,0
+1662009686719,23623,https://catalog.chaldal.com/searchOld,200,OK,Thread Group 1-8,text,true,,228048,843,25,25,https://catalog.chaldal.com/searchOld,8508,0,8043
+1662009706524,3942,https://chaldal.com/yolk/api-v4/Recipe/GetAllRecipeSummaries?pageSize=100&pageNumber=1,200,OK,Thread Group 1-9,text,true,,37176,720,25,25,https://chaldal.com/yolk/api-v4/Recipe/GetAllRecipeSummaries?pageNumber=1&pageSize=100,2307,0,0
+1662009703741,6735,https://chaldal.com/yolk/api-v4/Recipe/GetAllRecipeCategories,200,OK,Thread Group 1-15,text,true,,3153,695,25,25,https://chaldal.com/yolk/api-v4/Recipe/GetAllRecipeCategories,4695,0,4172
+1662009704942,5785,https://chaldal.com/yolk/api-v4/Recipe/GetAllRecipeSummaries?pageSize=100&pageNumber=1,200,OK,Thread Group 1-3,text,true,,37176,720,25,25,https://chaldal.com/yolk/api-v4/Recipe/GetAllRecipeSummaries?pageNumber=1&pageSize=100,1154,0,0
+1662009710467,447,https://chaldal.com/yolk/api-v4/DailyDeal/GetDailyDeals,200,OK,Thread Group 1-9,text,true,,2059,689,25,25,https://chaldal.com/yolk/api-v4/DailyDeal/GetDailyDeals,441,0,0
+1662009710047,1126,https://chaldal.com/yolk/api-v4/DailyDeal/GetDailyDeals,200,OK,Thread Group 1-25,text,true,,2059,689,25,25,https://chaldal.com/yolk/api-v4/DailyDeal/GetDailyDeals,486,0,0
+1662009710728,483,https://chaldal.com/yolk/api-v4/DailyDeal/GetDailyDeals,200,OK,Thread Group 1-3,text,true,,2059,689,25,25,https://chaldal.com/yolk/api-v4/DailyDeal/GetDailyDeals,473,0,0
+1662009706851,4386,https://chaldal.com/yolk/api-v4/Recipe/GetAllRecipeSummaries?pageSize=100&pageNumber=1,200,OK,Thread Group 1-6,text,true,,37176,720,25,25,https://chaldal.com/yolk/api-v4/Recipe/GetAllRecipeSummaries?pageNumber=1&pageSize=100,2718,0,0
+1662009710915,422,https://chaldal.com/yolk/api-v4/DailyDeal/GetDailyDeals,200,OK,Thread Group 1-9,text,true,,2059,689,25,25,https://chaldal.com/yolk/api-v4/DailyDeal/GetDailyDeals,409,0,0
+1662009707175,4710,https://chaldal.com/yolk/api-v4/Recipe/GetAllRecipeCategories,200,OK,Thread Group 1-19,text,true,,3153,695,25,25,https://chaldal.com/yolk/api-v4/Recipe/GetAllRecipeCategories,2592,0,2287
+1662009687908,24508,https://catalog.chaldal.com/searchOld,200,OK,Thread Group 1-14,text,true,,228026,843,25,25,https://catalog.chaldal.com/searchOld,6045,0,5081
+1662009709062,3695,https://chaldal.com/yolk/api-v4/Recipe/GetAllRecipeCategories,200,OK,Thread Group 1-16,text,true,,3153,695,25,25,https://chaldal.com/yolk/api-v4/Recipe/GetAllRecipeCategories,1993,0,1620
+1662009686111,26919,https://catalog.chaldal.com/searchOld,200,OK,Thread Group 1-5,text,true,,228041,843,25,25,https://catalog.chaldal.com/searchOld,5733,0,4704
+1662009689290,24007,https://catalog.chaldal.com/searchOld,200,OK,Thread Group 1-21,text,true,,228048,843,25,25,https://catalog.chaldal.com/searchOld,4954,0,4513
+1662009686509,26862,https://catalog.chaldal.com/searchOld,200,OK,Thread Group 1-7,text,true,,228041,843,25,25,https://catalog.chaldal.com/searchOld,5348,0,4427
+1662009711212,2168,https://chaldal.com/yolk/api-v4/DailyDeal/GetDailyDeals,200,OK,Thread Group 1-3,text,true,,2059,689,25,25,https://chaldal.com/yolk/api-v4/DailyDeal/GetDailyDeals,1023,0,0
+1662009711886,1833,https://chaldal.com/yolk/api-v4/Recipe/GetAllRecipeSummaries?pageSize=100&pageNumber=1,200,OK,Thread Group 1-19,text,true,,37176,720,25,25,https://chaldal.com/yolk/api-v4/Recipe/GetAllRecipeSummaries?pageNumber=1&pageSize=100,656,0,0
+1662009688685,25262,https://catalog.chaldal.com/searchOld,200,OK,Thread Group 1-18,text,true,,228033,843,25,25,https://catalog.chaldal.com/searchOld,4583,0,4305
+1662009713720,330,https://chaldal.com/yolk/api-v4/DailyDeal/GetDailyDeals,200,OK,Thread Group 1-19,text,true,,2059,689,25,25,https://chaldal.com/yolk/api-v4/DailyDeal/GetDailyDeals,316,0,0
+1662009687501,26581,https://catalog.chaldal.com/searchOld,200,OK,Thread Group 1-12,text,true,,228050,843,25,25,https://catalog.chaldal.com/searchOld,7911,0,6534
+1662009711238,3169,https://chaldal.com/yolk/api-v4/DailyDeal/GetDailyDeals,200,OK,Thread Group 1-6,text,true,,2059,689,25,25,https://chaldal.com/yolk/api-v4/DailyDeal/GetDailyDeals,817,0,0
+1662009714051,356,https://chaldal.com/yolk/api-v4/DailyDeal/GetDailyDeals,200,OK,Thread Group 1-19,text,true,,2059,689,25,25,https://chaldal.com/yolk/api-v4/DailyDeal/GetDailyDeals,348,0,0
+1662009689890,24808,https://catalog.chaldal.com/searchOld,200,OK,Thread Group 1-24,text,true,,228042,843,25,25,https://catalog.chaldal.com/searchOld,10649,0,9476
+1662009714408,354,https://chaldal.com/yolk/api-v4/DailyDeal/GetDailyDeals,200,OK,Thread Group 1-6,text,true,,2059,689,25,25,https://chaldal.com/yolk/api-v4/DailyDeal/GetDailyDeals,347,0,0
+1662009708828,5990,https://chaldal.com/yolk/api-v4/Recipe/GetAllRecipeCategories,200,OK,Thread Group 1-23,text,true,,3153,695,25,25,https://chaldal.com/yolk/api-v4/Recipe/GetAllRecipeCategories,4583,0,3391
+1662009689488,25634,https://catalog.chaldal.com/searchOld,200,OK,Thread Group 1-22,text,true,,228050,843,25,25,https://catalog.chaldal.com/searchOld,7242,0,6721
+1662009712418,2740,https://chaldal.com/yolk/api-v4/Recipe/GetAllRecipeCategories,200,OK,Thread Group 1-14,text,true,,3153,695,25,25,https://chaldal.com/yolk/api-v4/Recipe/GetAllRecipeCategories,2734,0,2189
+1662009688484,26903,https://catalog.chaldal.com/searchOld,200,OK,Thread Group 1-17,text,true,,228055,843,25,25,https://catalog.chaldal.com/searchOld,6475,0,6209
+1662009714699,1918,https://chaldal.com/yolk/api-v4/Recipe/GetAllRecipeCategories,200,OK,Thread Group 1-24,text,true,,3153,695,25,25,https://chaldal.com/yolk/api-v4/Recipe/GetAllRecipeCategories,1161,0,747
+1662009713298,3395,https://chaldal.com/yolk/api-v4/Recipe/GetAllRecipeCategories,200,OK,Thread Group 1-21,text,true,,3153,695,25,25,https://chaldal.com/yolk/api-v4/Recipe/GetAllRecipeCategories,3389,0,1642
+1662009713372,4158,https://chaldal.com/yolk/api-v4/Recipe/GetAllRecipeCategories,200,OK,Thread Group 1-7,text,true,,3153,695,25,25,https://chaldal.com/yolk/api-v4/Recipe/GetAllRecipeCategories,4150,0,3548
+1662009713032,4661,https://chaldal.com/yolk/api-v4/Recipe/GetAllRecipeCategories,200,OK,Thread Group 1-5,text,true,,3153,695,25,25,https://chaldal.com/yolk/api-v4/Recipe/GetAllRecipeCategories,3852,0,3302
+1662009703407,14324,https://catalog.chaldal.com/searchOld,200,OK,Thread Group 1-4,text,true,,193779,835,25,25,https://catalog.chaldal.com/searchOld,662,0,0
+1662009710477,7361,https://chaldal.com/yolk/api-v4/Recipe/GetAllRecipeSummaries?pageSize=100&pageNumber=1,200,OK,Thread Group 1-15,text,true,,37176,720,25,25,https://chaldal.com/yolk/api-v4/Recipe/GetAllRecipeSummaries?pageNumber=1&pageSize=100,3606,0,0
+1662009710343,7571,https://chaldal.com/yolk/api-v4/Recipe/GetAllRecipeCategories,200,OK,Thread Group 1-8,text,true,,3153,695,25,25,https://chaldal.com/yolk/api-v4/Recipe/GetAllRecipeCategories,7367,0,6944
+1662009715159,2968,https://chaldal.com/yolk/api-v4/Recipe/GetAllRecipeSummaries?pageSize=100&pageNumber=1,200,OK,Thread Group 1-14,text,true,,37176,720,25,25,https://chaldal.com/yolk/api-v4/Recipe/GetAllRecipeSummaries?pageNumber=1&pageSize=100,1121,0,0
+1662009715124,3105,https://chaldal.com/yolk/api-v4/Recipe/GetAllRecipeCategories,200,OK,Thread Group 1-22,text,true,,3153,695,25,25,https://chaldal.com/yolk/api-v4/Recipe/GetAllRecipeCategories,1332,0,958
+1662009707564,10674,https://catalog.chaldal.com/searchOld,200,OK,Thread Group 1-2,text,true,,193779,835,25,25,https://catalog.chaldal.com/searchOld,2537,0,0
+1662009718129,322,https://chaldal.com/yolk/api-v4/DailyDeal/GetDailyDeals,200,OK,Thread Group 1-14,text,true,,2059,689,25,25,https://chaldal.com/yolk/api-v4/DailyDeal/GetDailyDeals,314,0,0
+1662009717839,901,https://chaldal.com/yolk/api-v4/DailyDeal/GetDailyDeals,200,OK,Thread Group 1-15,text,true,,2059,689,25,25,https://chaldal.com/yolk/api-v4/DailyDeal/GetDailyDeals,704,0,0
+1662009718452,381,https://chaldal.com/yolk/api-v4/DailyDeal/GetDailyDeals,200,OK,Thread Group 1-14,text,true,,2059,689,25,25,https://chaldal.com/yolk/api-v4/DailyDeal/GetDailyDeals,372,0,0
+1662009717695,1202,https://chaldal.com/yolk/api-v4/Recipe/GetAllRecipeSummaries?pageSize=100&pageNumber=1,200,OK,Thread Group 1-5,text,true,,37176,720,25,25,https://chaldal.com/yolk/api-v4/Recipe/GetAllRecipeSummaries?pageNumber=1&pageSize=100,555,0,0
+1662009714084,5210,https://chaldal.com/yolk/api-v4/Recipe/GetAllRecipeCategories,200,OK,Thread Group 1-12,text,true,,3153,695,25,25,https://chaldal.com/yolk/api-v4/Recipe/GetAllRecipeCategories,5207,0,4897
+1662009712758,6582,https://chaldal.com/yolk/api-v4/Recipe/GetAllRecipeSummaries?pageSize=100&pageNumber=1,200,OK,Thread Group 1-16,text,true,,37176,720,25,25,https://chaldal.com/yolk/api-v4/Recipe/GetAllRecipeSummaries?pageNumber=1&pageSize=100,1706,0,0
+1662009708154,11818,https://chaldal.com/yolk/api-v4/Recipe/GetAllRecipeSummaries?pageSize=100&pageNumber=1,200,OK,Thread Group 1-1,text,true,,37176,720,25,25,https://chaldal.com/yolk/api-v4/Recipe/GetAllRecipeSummaries?pageNumber=1&pageSize=100,3914,0,0
+1662009718741,1403,https://chaldal.com/yolk/api-v4/DailyDeal/GetDailyDeals,200,OK,Thread Group 1-15,text,true,,2059,689,25,25,https://chaldal.com/yolk/api-v4/DailyDeal/GetDailyDeals,337,0,0
+1662009716695,3550,https://chaldal.com/yolk/api-v4/Recipe/GetAllRecipeSummaries?pageSize=100&pageNumber=1,200,OK,Thread Group 1-21,text,true,,37176,720,25,25,https://chaldal.com/yolk/api-v4/Recipe/GetAllRecipeSummaries?pageNumber=1&pageSize=100,1605,0,0
+1662009719974,322,https://chaldal.com/yolk/api-v4/DailyDeal/GetDailyDeals,200,OK,Thread Group 1-1,text,true,,2059,689,25,25,https://chaldal.com/yolk/api-v4/DailyDeal/GetDailyDeals,313,0,0
+1662009719342,1092,https://chaldal.com/yolk/api-v4/DailyDeal/GetDailyDeals,200,OK,Thread Group 1-16,text,true,,2059,689,25,25,https://chaldal.com/yolk/api-v4/DailyDeal/GetDailyDeals,452,0,0
+1662009715389,5629,https://chaldal.com/yolk/api-v4/Recipe/GetAllRecipeCategories,200,OK,Thread Group 1-17,text,true,,3153,695,25,25,https://chaldal.com/yolk/api-v4/Recipe/GetAllRecipeCategories,3796,0,2457
+1662009720297,1024,https://chaldal.com/yolk/api-v4/DailyDeal/GetDailyDeals,200,OK,Thread Group 1-1,text,true,,2059,689,25,25,https://chaldal.com/yolk/api-v4/DailyDeal/GetDailyDeals,416,0,0
+1662009720434,957,https://chaldal.com/yolk/api-v4/DailyDeal/GetDailyDeals,200,OK,Thread Group 1-16,text,true,,2059,689,25,25,https://chaldal.com/yolk/api-v4/DailyDeal/GetDailyDeals,445,0,0
+1662009720246,1586,https://chaldal.com/yolk/api-v4/DailyDeal/GetDailyDeals,200,OK,Thread Group 1-21,text,true,,2059,689,25,25,https://chaldal.com/yolk/api-v4/DailyDeal/GetDailyDeals,666,0,0
+1662009717532,4472,https://chaldal.com/yolk/api-v4/Recipe/GetAllRecipeSummaries?pageSize=100&pageNumber=1,200,OK,Thread Group 1-7,text,true,,37176,720,25,25,https://chaldal.com/yolk/api-v4/Recipe/GetAllRecipeSummaries?pageNumber=1&pageSize=100,1715,0,0
+1662009718898,3242,https://chaldal.com/yolk/api-v4/DailyDeal/GetDailyDeals,200,OK,Thread Group 1-5,text,true,,2059,689,25,25,https://chaldal.com/yolk/api-v4/DailyDeal/GetDailyDeals,734,0,0
+1662009713948,8356,https://chaldal.com/yolk/api-v4/Recipe/GetAllRecipeCategories,200,OK,Thread Group 1-18,text,true,,3153,695,25,25,https://chaldal.com/yolk/api-v4/Recipe/GetAllRecipeCategories,8354,0,7886
+1662009722004,381,https://chaldal.com/yolk/api-v4/DailyDeal/GetDailyDeals,200,OK,Thread Group 1-7,text,true,,2059,689,25,25,https://chaldal.com/yolk/api-v4/DailyDeal/GetDailyDeals,374,0,0
+1662009714819,7566,https://chaldal.com/yolk/api-v4/Recipe/GetAllRecipeSummaries?pageSize=100&pageNumber=1,200,OK,Thread Group 1-23,text,true,,37176,720,25,25,https://chaldal.com/yolk/api-v4/Recipe/GetAllRecipeSummaries?pageNumber=1&pageSize=100,1492,0,0
+1662009714408,8005,https://catalog.chaldal.com/searchOld,200,OK,Thread Group 1-19,text,true,,193771,835,25,25,https://catalog.chaldal.com/searchOld,870,0,0
+1662009722140,416,https://chaldal.com/yolk/api-v4/DailyDeal/GetDailyDeals,200,OK,Thread Group 1-5,text,true,,2059,689,25,25,https://chaldal.com/yolk/api-v4/DailyDeal/GetDailyDeals,408,0,0
+1662009716619,6044,https://chaldal.com/yolk/api-v4/Recipe/GetAllRecipeSummaries?pageSize=100&pageNumber=1,200,OK,Thread Group 1-24,text,true,,37176,720,25,25,https://chaldal.com/yolk/api-v4/Recipe/GetAllRecipeSummaries?pageNumber=1&pageSize=100,1715,0,0
+1662009722385,397,https://chaldal.com/yolk/api-v4/DailyDeal/GetDailyDeals,200,OK,Thread Group 1-23,text,true,,2059,689,25,25,https://chaldal.com/yolk/api-v4/DailyDeal/GetDailyDeals,387,0,0
+1662009717732,5170,https://catalog.chaldal.com/searchOld,200,OK,Thread Group 1-4,text,true,,157613,836,25,25,https://catalog.chaldal.com/searchOld,670,0,0
+1662009722663,409,https://chaldal.com/yolk/api-v4/DailyDeal/GetDailyDeals,200,OK,Thread Group 1-24,text,true,,2059,689,25,25,https://chaldal.com/yolk/api-v4/DailyDeal/GetDailyDeals,403,0,0
+1662009722783,486,https://chaldal.com/yolk/api-v4/DailyDeal/GetDailyDeals,200,OK,Thread Group 1-23,text,true,,2059,689,25,25,https://chaldal.com/yolk/api-v4/DailyDeal/GetDailyDeals,474,0,0
+1662009719296,4065,https://chaldal.com/yolk/api-v4/Recipe/GetAllRecipeSummaries?pageSize=100&pageNumber=1,200,OK,Thread Group 1-12,text,true,,37176,720,25,25,https://chaldal.com/yolk/api-v4/Recipe/GetAllRecipeSummaries?pageNumber=1&pageSize=100,1746,0,0
+1662009723073,418,https://chaldal.com/yolk/api-v4/DailyDeal/GetDailyDeals,200,OK,Thread Group 1-24,text,true,,2059,689,25,25,https://chaldal.com/yolk/api-v4/DailyDeal/GetDailyDeals,410,0,0
+1662009722385,1946,https://chaldal.com/yolk/api-v4/DailyDeal/GetDailyDeals,200,OK,Thread Group 1-7,text,true,,2059,689,25,25,https://chaldal.com/yolk/api-v4/DailyDeal/GetDailyDeals,613,0,0
+1662009723360,1049,https://chaldal.com/yolk/api-v4/DailyDeal/GetDailyDeals,200,OK,Thread Group 1-12,text,true,,2059,689,25,25,https://chaldal.com/yolk/api-v4/DailyDeal/GetDailyDeals,355,0,0
+1662009718231,6205,https://chaldal.com/yolk/api-v4/Recipe/GetAllRecipeSummaries?pageSize=100&pageNumber=1,200,OK,Thread Group 1-22,text,true,,37176,720,25,25,https://chaldal.com/yolk/api-v4/Recipe/GetAllRecipeSummaries?pageNumber=1&pageSize=100,2356,0,0
+1662009722902,1714,https://catalog.chaldal.com/searchOld,200,OK,Thread Group 1-4,text,true,,44952,836,25,25,https://catalog.chaldal.com/searchOld,888,0,0
+1662009685911,38694,Test,200,"Number of samples in transaction : 8, number of failing samples : 0",Thread Group 1-4,,true,,668840,6143,25,25,null,11360,11,5867
+1662009687306,37383,https://catalog.chaldal.com/searchOld,200,OK,Thread Group 1-11,text,true,,228042,843,24,24,https://catalog.chaldal.com/searchOld,8575,0,8072
+1662009724436,385,https://chaldal.com/yolk/api-v4/DailyDeal/GetDailyDeals,200,OK,Thread Group 1-22,text,true,,2059,689,24,24,https://chaldal.com/yolk/api-v4/DailyDeal/GetDailyDeals,375,0,0
+1662009717916,7310,https://chaldal.com/yolk/api-v4/Recipe/GetAllRecipeSummaries?pageSize=100&pageNumber=1,200,OK,Thread Group 1-8,text,true,,37176,720,24,24,https://chaldal.com/yolk/api-v4/Recipe/GetAllRecipeSummaries?pageNumber=1&pageSize=100,2978,0,0
+1662009724822,521,https://chaldal.com/yolk/api-v4/DailyDeal/GetDailyDeals,200,OK,Thread Group 1-22,text,true,,2059,689,24,24,https://chaldal.com/yolk/api-v4/DailyDeal/GetDailyDeals,521,0,0
+1662009721832,3511,https://chaldal.com/yolk/api-v4/DailyDeal/GetDailyDeals,200,OK,Thread Group 1-21,text,true,,2059,689,24,24,https://chaldal.com/yolk/api-v4/DailyDeal/GetDailyDeals,639,0,0
+1662009724409,1090,https://chaldal.com/yolk/api-v4/DailyDeal/GetDailyDeals,200,OK,Thread Group 1-12,text,true,,2059,689,24,24,https://chaldal.com/yolk/api-v4/DailyDeal/GetDailyDeals,1049,0,0
+1662009724690,1233,https://chaldal.com/yolk/api-v4/Recipe/GetAllRecipeCategories,200,OK,Thread Group 1-11,text,true,,3153,695,24,24,https://chaldal.com/yolk/api-v4/Recipe/GetAllRecipeCategories,1224,0,872
+1662009725226,999,https://chaldal.com/yolk/api-v4/DailyDeal/GetDailyDeals,200,OK,Thread Group 1-8,text,true,,2059,689,24,24,https://chaldal.com/yolk/api-v4/DailyDeal/GetDailyDeals,418,0,0
+1662009687116,41408,https://catalog.chaldal.com/searchOld,200,OK,Thread Group 1-10,text,true,,228058,843,24,24,https://catalog.chaldal.com/searchOld,4880,0,4697
+1662009726226,2715,https://chaldal.com/yolk/api-v4/DailyDeal/GetDailyDeals,200,OK,Thread Group 1-8,text,true,,2059,689,24,24,https://chaldal.com/yolk/api-v4/DailyDeal/GetDailyDeals,1103,0,0
+1662009713381,16165,https://catalog.chaldal.com/searchOld,200,OK,Thread Group 1-3,text,true,,193771,835,24,24,https://catalog.chaldal.com/searchOld,1295,0,0
+1662009718240,12027,https://catalog.chaldal.com/searchOld,200,OK,Thread Group 1-2,text,true,,157613,836,24,24,https://catalog.chaldal.com/searchOld,1726,0,0
+1662009725924,6756,https://chaldal.com/yolk/api-v4/Recipe/GetAllRecipeSummaries?pageSize=100&pageNumber=1,200,OK,Thread Group 1-11,text,true,,37176,720,24,24,https://chaldal.com/yolk/api-v4/Recipe/GetAllRecipeSummaries?pageNumber=1&pageSize=100,2773,0,0
+1662009714763,17935,https://catalog.chaldal.com/searchOld,200,OK,Thread Group 1-6,text,true,,193771,835,24,24,https://catalog.chaldal.com/searchOld,1636,0,0
+1662009723492,9288,https://catalog.chaldal.com/searchOld,200,OK,Thread Group 1-24,text,true,,193762,835,24,24,https://catalog.chaldal.com/searchOld,2295,0,0
+1662009728525,4560,https://chaldal.com/yolk/api-v4/Recipe/GetAllRecipeCategories,200,OK,Thread Group 1-10,text,true,,3153,695,24,24,https://chaldal.com/yolk/api-v4/Recipe/GetAllRecipeCategories,3788,0,3461
+1662009723270,9942,https://catalog.chaldal.com/searchOld,200,OK,Thread Group 1-23,text,true,,193779,835,24,24,https://catalog.chaldal.com/searchOld,1085,0,0
+1662009722306,11416,https://chaldal.com/yolk/api-v4/Recipe/GetAllRecipeSummaries?pageSize=100&pageNumber=1,200,OK,Thread Group 1-18,text,true,,37176,720,24,24,https://chaldal.com/yolk/api-v4/Recipe/GetAllRecipeSummaries?pageNumber=1&pageSize=100,3075,0,0
+1662009733724,524,https://chaldal.com/yolk/api-v4/DailyDeal/GetDailyDeals,200,OK,Thread Group 1-18,text,true,,2059,689,24,24,https://chaldal.com/yolk/api-v4/DailyDeal/GetDailyDeals,325,0,0
+1662009718834,15436,https://catalog.chaldal.com/searchOld,200,OK,Thread Group 1-14,text,true,,193771,835,24,24,https://catalog.chaldal.com/searchOld,1550,0,0
+1662009732682,2497,https://chaldal.com/yolk/api-v4/DailyDeal/GetDailyDeals,200,OK,Thread Group 1-11,text,true,,2059,689,24,24,https://chaldal.com/yolk/api-v4/DailyDeal/GetDailyDeals,363,0,0
+1662009734250,964,https://chaldal.com/yolk/api-v4/DailyDeal/GetDailyDeals,200,OK,Thread Group 1-18,text,true,,2059,689,24,24,https://chaldal.com/yolk/api-v4/DailyDeal/GetDailyDeals,345,0,0
+1662009733087,2623,https://chaldal.com/yolk/api-v4/Recipe/GetAllRecipeSummaries?pageSize=100&pageNumber=1,200,OK,Thread Group 1-10,text,true,,37176,720,24,24,https://chaldal.com/yolk/api-v4/Recipe/GetAllRecipeSummaries?pageNumber=1&pageSize=100,1051,0,0
+1662009735180,593,https://chaldal.com/yolk/api-v4/DailyDeal/GetDailyDeals,200,OK,Thread Group 1-11,text,true,,2059,689,24,24,https://chaldal.com/yolk/api-v4/DailyDeal/GetDailyDeals,586,0,0
+1662009721019,14826,https://chaldal.com/yolk/api-v4/Recipe/GetAllRecipeSummaries?pageSize=100&pageNumber=1,200,OK,Thread Group 1-17,text,true,,37176,720,24,24,https://chaldal.com/yolk/api-v4/Recipe/GetAllRecipeSummaries?pageNumber=1&pageSize=100,1844,0,0
+1662009687701,48537,https://catalog.chaldal.com/searchOld,200,OK,Thread Group 1-13,text,true,,228041,843,24,24,https://catalog.chaldal.com/searchOld,7609,0,6101
+1662009735846,436,https://chaldal.com/yolk/api-v4/DailyDeal/GetDailyDeals,200,OK,Thread Group 1-17,text,true,,2059,689,24,24,https://chaldal.com/yolk/api-v4/DailyDeal/GetDailyDeals,429,0,0
+1662009735710,927,https://chaldal.com/yolk/api-v4/DailyDeal/GetDailyDeals,200,OK,Thread Group 1-10,text,true,,2059,689,24,24,https://chaldal.com/yolk/api-v4/DailyDeal/GetDailyDeals,392,0,0
+1662009736282,398,https://chaldal.com/yolk/api-v4/DailyDeal/GetDailyDeals,200,OK,Thread Group 1-17,text,true,,2059,689,24,24,https://chaldal.com/yolk/api-v4/DailyDeal/GetDailyDeals,387,0,0
+1662009736638,452,https://chaldal.com/yolk/api-v4/DailyDeal/GetDailyDeals,200,OK,Thread Group 1-10,text,true,,2059,689,24,24,https://chaldal.com/yolk/api-v4/DailyDeal/GetDailyDeals,444,0,0
+1662009730266,7709,https://catalog.chaldal.com/searchOld,200,OK,Thread Group 1-2,text,true,,44952,836,24,24,https://catalog.chaldal.com/searchOld,5115,0,0
+1662009685530,52436,Test,200,"Number of samples in transaction : 8, number of failing samples : 0",Thread Group 1-2,,true,,668841,6143,24,24,null,20533,9,8980
+1662009729547,8976,https://catalog.chaldal.com/searchOld,200,OK,Thread Group 1-3,text,true,,157621,836,23,23,https://catalog.chaldal.com/searchOld,2236,0,0
+1662009722413,16917,https://catalog.chaldal.com/searchOld,200,OK,Thread Group 1-19,text,true,,157613,836,23,23,https://catalog.chaldal.com/searchOld,886,0,0
+1662009711174,30134,https://catalog.chaldal.com/searchOld,200,OK,Thread Group 1-25,text,true,,193777,835,23,23,https://catalog.chaldal.com/searchOld,759,0,0
+1662009739331,2195,https://catalog.chaldal.com/searchOld,200,OK,Thread Group 1-19,text,true,,44952,836,23,23,https://catalog.chaldal.com/searchOld,1035,0,0
+1662009688898,52621,Test,200,"Number of samples in transaction : 8, number of failing samples : 0",Thread Group 1-19,,true,,668816,6143,23,23,null,12894,8,8002
+1662009689089,52655,https://catalog.chaldal.com/searchOld,200,OK,Thread Group 1-20,text,true,,228050,843,22,22,https://catalog.chaldal.com/searchOld,5203,0,4952
+1662009721321,21020,https://catalog.chaldal.com/searchOld,200,OK,Thread Group 1-1,text,true,,193778,835,22,22,https://catalog.chaldal.com/searchOld,2014,0,0
+1662009736239,6121,https://chaldal.com/yolk/api-v4/Recipe/GetAllRecipeCategories,200,OK,Thread Group 1-13,text,true,,3153,695,22,22,https://chaldal.com/yolk/api-v4/Recipe/GetAllRecipeCategories,5879,0,3281
+1662009720150,23340,https://catalog.chaldal.com/searchOld,200,OK,Thread Group 1-15,text,true,,193779,835,22,22,https://catalog.chaldal.com/searchOld,2615,0,2378
+1662009738524,5517,https://catalog.chaldal.com/searchOld,200,OK,Thread Group 1-3,text,true,,44952,836,22,22,https://catalog.chaldal.com/searchOld,2449,0,0
+1662009685712,58311,Test,200,"Number of samples in transaction : 8, number of failing samples : 0",Thread Group 1-3,,true,,668833,6143,22,22,null,24734,18,8067
+1662009725344,18739,https://catalog.chaldal.com/searchOld,200,OK,Thread Group 1-21,text,true,,193771,835,21,21,https://catalog.chaldal.com/searchOld,1770,0,0
+1662009737091,7243,https://catalog.chaldal.com/searchOld,200,OK,Thread Group 1-10,text,true,,193779,835,21,21,https://catalog.chaldal.com/searchOld,1633,0,0
+1662009724332,20706,https://catalog.chaldal.com/searchOld,200,OK,Thread Group 1-7,text,true,,193761,835,21,21,https://catalog.chaldal.com/searchOld,1535,0,0
+1662009741745,3721,https://chaldal.com/yolk/api-v4/Recipe/GetAllRecipeCategories,200,OK,Thread Group 1-20,text,true,,3153,695,21,21,https://chaldal.com/yolk/api-v4/Recipe/GetAllRecipeCategories,3717,0,3046
+1662009741308,5389,https://catalog.chaldal.com/searchOld,200,OK,Thread Group 1-25,text,true,,157613,836,21,21,https://catalog.chaldal.com/searchOld,1311,0,0
+1662009735773,11223,https://catalog.chaldal.com/searchOld,200,OK,Thread Group 1-11,text,true,,193771,835,21,21,https://catalog.chaldal.com/searchOld,706,0,0
+1662009721391,25887,https://catalog.chaldal.com/searchOld,200,OK,Thread Group 1-16,text,true,,193779,835,21,21,https://catalog.chaldal.com/searchOld,2983,0,0
+1662009732781,14640,https://catalog.chaldal.com/searchOld,200,OK,Thread Group 1-24,text,true,,157613,836,21,21,https://catalog.chaldal.com/searchOld,1119,0,0
+1662009746698,1581,https://catalog.chaldal.com/searchOld,200,OK,Thread Group 1-25,text,true,,44952,836,21,21,https://catalog.chaldal.com/searchOld,811,0,0
+1662009690093,58179,Test,200,"Number of samples in transaction : 8, number of failing samples : 0",Thread Group 1-25,,true,,668830,6143,21,21,null,14403,8,6468
+1662009728942,19754,https://catalog.chaldal.com/searchOld,200,OK,Thread Group 1-8,text,true,,193771,835,20,20,https://catalog.chaldal.com/searchOld,1775,0,0
+1662009734270,14820,https://catalog.chaldal.com/searchOld,200,OK,Thread Group 1-14,text,true,,157613,836,20,20,https://catalog.chaldal.com/searchOld,4189,0,0
+1662009733214,16183,https://catalog.chaldal.com/searchOld,200,OK,Thread Group 1-23,text,true,,157613,836,20,20,https://catalog.chaldal.com/searchOld,4890,0,0
+1662009732699,17444,https://catalog.chaldal.com/searchOld,200,OK,Thread Group 1-6,text,true,,157613,836,20,20,https://catalog.chaldal.com/searchOld,6243,0,0
+1662009742361,7992,https://chaldal.com/yolk/api-v4/Recipe/GetAllRecipeSummaries?pageSize=100&pageNumber=1,200,OK,Thread Group 1-13,text,true,,37176,720,20,20,https://chaldal.com/yolk/api-v4/Recipe/GetAllRecipeSummaries?pageNumber=1&pageSize=100,3847,0,0
+1662009750354,418,https://chaldal.com/yolk/api-v4/DailyDeal/GetDailyDeals,200,OK,Thread Group 1-13,text,true,,2059,689,20,20,https://chaldal.com/yolk/api-v4/DailyDeal/GetDailyDeals,408,0,0
+1662009743490,7311,https://catalog.chaldal.com/searchOld,200,OK,Thread Group 1-15,text,true,,157621,836,20,20,https://catalog.chaldal.com/searchOld,1177,0,0
+1662009747421,3502,https://catalog.chaldal.com/searchOld,200,OK,Thread Group 1-24,text,true,,44952,836,20,20,https://catalog.chaldal.com/searchOld,2118,0,0
+1662009689889,61027,Test,200,"Number of samples in transaction : 8, number of failing samples : 0",Thread Group 1-24,,true,,668816,6143,20,20,null,19870,7,10223
+1662009750773,366,https://chaldal.com/yolk/api-v4/DailyDeal/GetDailyDeals,200,OK,Thread Group 1-13,text,true,,2059,689,19,19,https://chaldal.com/yolk/api-v4/DailyDeal/GetDailyDeals,358,0,0
+1662009750147,2003,https://catalog.chaldal.com/searchOld,200,OK,Thread Group 1-6,text,true,,44952,836,19,19,https://catalog.chaldal.com/searchOld,1190,0,914
+1662009686310,65827,Test,200,"Number of samples in transaction : 8, number of failing samples : 0",Thread Group 1-6,,true,,668824,6143,19,19,null,22622,13,9209
+1662009735215,17023,https://catalog.chaldal.com/searchOld,200,OK,Thread Group 1-18,text,true,,193771,835,18,18,https://catalog.chaldal.com/searchOld,1401,0,0
+1662009749396,3366,https://catalog.chaldal.com/searchOld,200,OK,Thread Group 1-23,text,true,,44952,836,18,18,https://catalog.chaldal.com/searchOld,2069,0,0
+1662009689691,63065,Test,200,"Number of samples in transaction : 8, number of failing samples : 0",Thread Group 1-23,,true,,668844,6143,18,18,null,24863,6,13024
+1662009747279,5650,https://catalog.chaldal.com/searchOld,200,OK,Thread Group 1-16,text,true,,157613,836,17,17,https://catalog.chaldal.com/searchOld,696,0,0
+1662009746997,6238,https://catalog.chaldal.com/searchOld,200,OK,Thread Group 1-11,text,true,,157621,836,17,17,https://catalog.chaldal.com/searchOld,1100,0,0
+1662009749090,4518,https://catalog.chaldal.com/searchOld,200,OK,Thread Group 1-14,text,true,,44952,836,17,17,https://catalog.chaldal.com/searchOld,1203,0,929
+1662009687906,65693,Test,200,"Number of samples in transaction : 8, number of failing samples : 0",Thread Group 1-14,,true,,668809,6143,17,17,null,17528,9,8199
+1662009750801,3119,https://catalog.chaldal.com/searchOld,200,OK,Thread Group 1-15,text,true,,44952,836,16,16,https://catalog.chaldal.com/searchOld,890,0,0
+1662009688094,65813,Test,,"Number of samples in transaction : 8, number of failing samples : 1",Thread Group 1-15,,false,,442899,5300,16,16,null,14024,14,22190
+1662009745038,9250,https://catalog.chaldal.com/searchOld,200,OK,Thread Group 1-7,text,true,,157621,836,15,15,https://catalog.chaldal.com/searchOld,1306,0,0
+1662009725500,29069,https://catalog.chaldal.com/searchOld,200,OK,Thread Group 1-12,text,true,,193779,835,15,15,https://catalog.chaldal.com/searchOld,1686,0,0
+1662009752930,2057,https://catalog.chaldal.com/searchOld,200,OK,Thread Group 1-16,text,true,,44952,836,15,15,https://catalog.chaldal.com/searchOld,1107,0,827
+1662009688285,66695,Test,200,"Number of samples in transaction : 8, number of failing samples : 0",Thread Group 1-16,,true,,668833,6143,15,15,null,16085,7,8197
+1662009753236,1795,https://catalog.chaldal.com/searchOld,200,OK,Thread Group 1-11,text,true,,44959,836,14,14,https://catalog.chaldal.com/searchOld,1089,0,828
+1662009687305,67718,Test,200,"Number of samples in transaction : 8, number of failing samples : 0",Thread Group 1-11,,true,,668840,6143,14,14,null,16416,8,9772
+1662009745466,9582,https://chaldal.com/yolk/api-v4/Recipe/GetAllRecipeSummaries?pageSize=100&pageNumber=1,200,OK,Thread Group 1-20,text,true,,37176,720,13,13,https://chaldal.com/yolk/api-v4/Recipe/GetAllRecipeSummaries?pageNumber=1&pageSize=100,4781,0,0
+1662009744084,10976,https://catalog.chaldal.com/searchOld,200,OK,Thread Group 1-21,text,true,,157605,836,13,13,https://catalog.chaldal.com/searchOld,1325,0,0
+1662009742342,13027,https://catalog.chaldal.com/searchOld,200,OK,Thread Group 1-1,text,true,,157613,836,13,13,https://catalog.chaldal.com/searchOld,2551,0,0
+1662009754289,1798,https://catalog.chaldal.com/searchOld,200,OK,Thread Group 1-7,text,true,,44959,836,13,13,https://catalog.chaldal.com/searchOld,942,0,753
+1662009686508,69573,Test,200,"Number of samples in transaction : 8, number of failing samples : 0",Thread Group 1-7,,true,,668829,6143,13,13,null,15983,6,8728
+1662009748696,7559,https://catalog.chaldal.com/searchOld,200,OK,Thread Group 1-8,text,true,,157613,836,12,12,https://catalog.chaldal.com/searchOld,2662,0,1712
+1662009744335,12501,https://catalog.chaldal.com/searchOld,200,OK,Thread Group 1-10,text,true,,157613,836,12,12,https://catalog.chaldal.com/searchOld,1540,0,0
+1662009752237,4699,https://catalog.chaldal.com/searchOld,200,OK,Thread Group 1-18,text,true,,157613,836,12,12,https://catalog.chaldal.com/searchOld,840,0,609
+1662009755369,1662,https://catalog.chaldal.com/searchOld,200,OK,Thread Group 1-1,text,true,,44952,836,12,12,https://catalog.chaldal.com/searchOld,1002,0,745
+1662009685311,71574,Test,200,"Number of samples in transaction : 8, number of failing samples : 0",Thread Group 1-1,,true,,668853,6143,12,12,null,18506,131,7258
+1662009755061,2437,https://catalog.chaldal.com/searchOld,200,OK,Thread Group 1-21,text,true,,44952,836,11,11,https://catalog.chaldal.com/searchOld,839,0,590
+1662009689288,68201,Test,200,"Number of samples in transaction : 8, number of failing samples : 0",Thread Group 1-21,,true,,668823,6143,11,11,null,15187,9,6745
+1662009756937,620,https://catalog.chaldal.com/searchOld,200,OK,Thread Group 1-18,text,true,,44952,836,10,10,https://catalog.chaldal.com/searchOld,149,0,0
+1662009688683,68864,Test,200,"Number of samples in transaction : 8, number of failing samples : 0",Thread Group 1-18,,true,,668816,6143,10,10,null,19072,10,12800
+1662009754570,3044,https://catalog.chaldal.com/searchOld,200,OK,Thread Group 1-12,text,true,,157613,836,9,9,https://catalog.chaldal.com/searchOld,1024,0,756
+1662009755048,2601,https://chaldal.com/yolk/api-v4/DailyDeal/GetDailyDeals,200,OK,Thread Group 1-20,text,true,,2059,689,9,9,https://chaldal.com/yolk/api-v4/DailyDeal/GetDailyDeals,499,0,0
+1662009757649,458,https://chaldal.com/yolk/api-v4/DailyDeal/GetDailyDeals,200,OK,Thread Group 1-20,text,true,,2059,689,9,9,https://chaldal.com/yolk/api-v4/DailyDeal/GetDailyDeals,359,0,0
+1662009757615,512,https://catalog.chaldal.com/searchOld,200,OK,Thread Group 1-12,text,true,,44952,836,9,9,https://catalog.chaldal.com/searchOld,257,0,0
+1662009687500,70620,Test,200,"Number of samples in transaction : 8, number of failing samples : 0",Thread Group 1-12,,true,,668841,6143,9,9,null,19235,7,12187
+1662009751139,6993,https://catalog.chaldal.com/searchOld,200,OK,Thread Group 1-13,text,true,,193779,835,8,8,https://catalog.chaldal.com/searchOld,1268,0,835
+1662009736681,21520,https://catalog.chaldal.com/searchOld,200,OK,Thread Group 1-17,text,true,,193761,835,8,8,https://catalog.chaldal.com/searchOld,1848,0,0
+1662009756255,2133,https://catalog.chaldal.com/searchOld,200,OK,Thread Group 1-8,text,true,,44952,836,8,8,https://catalog.chaldal.com/searchOld,879,0,0
+1662009686718,71664,Test,200,"Number of samples in transaction : 8, number of failing samples : 0",Thread Group 1-8,,true,,668831,6143,8,8,null,25690,6,16699
+1662009756837,2107,https://catalog.chaldal.com/searchOld,200,OK,Thread Group 1-10,text,true,,44952,836,7,7,https://catalog.chaldal.com/searchOld,829,0,694
+1662009687115,71821,Test,200,"Number of samples in transaction : 8, number of failing samples : 0",Thread Group 1-10,,true,,668849,6143,7,7,null,14557,9,8852
+1662009758133,1494,https://catalog.chaldal.com/searchOld,200,OK,Thread Group 1-13,text,true,,157613,836,6,6,https://catalog.chaldal.com/searchOld,173,0,0
+1662009758107,1756,https://catalog.chaldal.com/searchOld,200,OK,Thread Group 1-20,text,true,,193779,835,6,6,https://catalog.chaldal.com/searchOld,712,0,571
+1662009759627,596,https://catalog.chaldal.com/searchOld,200,OK,Thread Group 1-13,text,true,,44967,836,6,6,https://catalog.chaldal.com/searchOld,281,0,0
+1662009687699,72517,Test,200,"Number of samples in transaction : 8, number of failing samples : 0",Thread Group 1-13,,true,,668847,6143,6,6,null,19823,7,10217
+1662009759863,987,https://catalog.chaldal.com/searchOld,200,OK,Thread Group 1-20,text,true,,157613,836,5,5,https://catalog.chaldal.com/searchOld,215,0,0
+1662009760850,381,https://catalog.chaldal.com/searchOld,200,OK,Thread Group 1-20,text,true,,44952,836,5,5,https://catalog.chaldal.com/searchOld,194,0,0
+1662009689088,72141,Test,200,"Number of samples in transaction : 8, number of failing samples : 0",Thread Group 1-20,,true,,668841,6143,5,5,null,15680,2,8569
+1662009722557,39284,https://catalog.chaldal.com/searchOld,200,OK,Thread Group 1-5,text,true,,193779,835,4,4,https://catalog.chaldal.com/searchOld,1536,0,0
+1662009758202,3779,https://catalog.chaldal.com/searchOld,200,OK,Thread Group 1-17,text,true,,157613,836,4,4,https://catalog.chaldal.com/searchOld,1991,0,833
+1662009761982,183,https://catalog.chaldal.com/searchOld,200,OK,Thread Group 1-17,text,true,,44952,836,4,4,https://catalog.chaldal.com/searchOld,94,0,0
+1662009688482,73674,Test,200,"Number of samples in transaction : 8, number of failing samples : 0",Thread Group 1-17,,true,,668828,6143,4,4,null,16864,9,9499
+1662009761841,1136,https://catalog.chaldal.com/searchOld,200,OK,Thread Group 1-5,text,true,,157613,836,3,3,https://catalog.chaldal.com/searchOld,709,0,379
+1662009762977,292,https://catalog.chaldal.com/searchOld,200,OK,Thread Group 1-5,text,true,,44952,836,3,3,https://catalog.chaldal.com/searchOld,291,0,0
+1662009686110,77152,Test,200,"Number of samples in transaction : 8, number of failing samples : 0",Thread Group 1-5,,true,,668832,6143,3,3,null,13818,8,8385
+1662009711339,54246,https://catalog.chaldal.com/searchOld,200,OK,Thread Group 1-9,text,true,,193771,835,2,2,https://catalog.chaldal.com/searchOld,3131,0,0
+1662009765586,1200,https://catalog.chaldal.com/searchOld,200,OK,Thread Group 1-9,text,true,,157613,836,2,2,https://catalog.chaldal.com/searchOld,423,0,360
+1662009766786,166,https://catalog.chaldal.com/searchOld,200,OK,Thread Group 1-9,text,true,,44952,836,2,2,https://catalog.chaldal.com/searchOld,124,0,0
+1662009686926,80018,Test,200,"Number of samples in transaction : 8, number of failing samples : 0",Thread Group 1-9,,true,,668825,6143,2,2,null,16389,8,8253
+1662009725344,47366,https://catalog.chaldal.com/searchOld,200,OK,Thread Group 1-22,text,true,,193779,835,1,1,https://catalog.chaldal.com/searchOld,2837,0,0
+1662009772711,1430,https://catalog.chaldal.com/searchOld,200,OK,Thread Group 1-22,text,true,,157613,836,1,1,https://catalog.chaldal.com/searchOld,505,0,393
+1662009774142,235,https://catalog.chaldal.com/searchOld,200,OK,Thread Group 1-22,text,true,,44952,836,1,1,https://catalog.chaldal.com/searchOld,141,0,0
+1662009689487,84881,Test,200,"Number of samples in transaction : 8, number of failing samples : 0",Thread Group 1-22,,true,,668841,6143,1,1,null,15309,9,8072
